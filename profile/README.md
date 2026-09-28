@@ -10,4 +10,10 @@ Our work spans:
 - **Blue teaming:** building defenses that reason over intent, context, and feedback.
 - **Privacy:** protecting people as AI enters physical and social environments.
 
+## Members
+
+- Xinjie Shen
+- Rongzhe Wei
+- Junran Wang
+
 Explore our research at [everywheresafety.github.io](https://everywheresafety.github.io/).
